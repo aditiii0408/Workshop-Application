@@ -7,7 +7,7 @@ function NavBar()
     return(
         <nav className="navbar">
             <div className="navbar-inner">
-                <a href="#" className="navbar-brand">
+                <a href="/" className="navbar-brand">
                     <div className="navbar-logo">AI</div>
                     <span className="navbar-name">Gema<span>Robotics</span></span>
                 </a>
