@@ -10,7 +10,7 @@ function LearningOutcomes()
     ];
 
     return(
-        <div className="section outcomes-section">
+        <div className="section outcomes-section" id="outcomes">
             <h2 className="section-title">What You Will Learn</h2>
             <p className="section-sub">6 hands-on outcomes across 4 exciting weeks</p>
             <div className="outcomes-grid">

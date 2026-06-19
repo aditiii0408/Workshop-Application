@@ -10,7 +10,7 @@ function WorkshopDetails()
     ];
 
     return(
-        <div className="section workshop-section">
+        <div className="section workshop-section" id="details">
             <h2 className="section-title">Workshop Details</h2>
             <p className="section-sub">Everything you need to know before enrolling</p>
             <div className="details-grid">

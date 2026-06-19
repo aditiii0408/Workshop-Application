@@ -32,7 +32,7 @@ function FAQ()
     }
 
     return(
-        <div className="section faq-section">
+        <div className="section faq-section" id="faq">
             <h2 className="section-title">Frequently Asked Questions</h2>
             <p className="section-sub">Got questions? We have answers.</p>
             <div className="faq-list">
